@@ -1,0 +1,23 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.container{
+    margin: 1.5rem 4rem;
+}
+
+.izquierdo, .derecho{
+    display: inline-block;
+}
+
+
+
+.derecho{
+    float: right;
+    background-color: white;
+    border-radius: 32px;
+    width: 350px;
+    height: 500px;
+
+
+}
